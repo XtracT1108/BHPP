@@ -1,4 +1,4 @@
-The project file for Bangalore House Price Prediction is Final_Version_1_6.ipynb. 
+The project file for Bangalore House Price Prediction is Final_Version 1.6.ipynb. 
 
 Made by:
 
